@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>This is a Sample Folder</h1>
+        <p> This is a sample paragram</p>
+        I am about to create a form
+        <form action="submit.php">
+            Name <input type="text">
+            Phone Number <input type="number">
+            Feedback <input type="text">
+            Password <input type="password">
+        </form>
+    </body>
+</html>
